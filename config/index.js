@@ -26,7 +26,7 @@ module.exports = {
     port: 8081,
     autoOpenBrowser: true,
     assetsSubDirectory: 'static',
-    assetsPublicPath: '/',
+    assetsPublicPath: './',
     proxyTable: {
       // '/api': {
       //   target: 'http://192.168.18.80:8080/itfin/app/',//设置你调用的接口域名和端口号 别忘了加http
